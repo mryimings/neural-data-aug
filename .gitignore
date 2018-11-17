@@ -4,6 +4,7 @@ torchenv/*
 .DS_Store
 
 *.jpg
+*.pth
 
 __pycache__/
 *.py[cod]
